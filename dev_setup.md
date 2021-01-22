@@ -13,6 +13,7 @@
     }
     ```
 
+1. if you want to access GitHub via SSH from the Dev Container: <https://code.visualstudio.com/docs/remote/containers#_using-ssh-keys>
 1. open command palette: CTRL-SHIFT-P (CMD-SHIFT-P on Mac)
     1. run "Remote Containers: Reopen in Container"
 1. open integrated terminal: CTRL-` (backtick)
