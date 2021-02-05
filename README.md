@@ -13,3 +13,7 @@
 ## Python
 
 * Reading and Writing Files: <https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files>
+
+## Data structures and algorithms
+
+* "Grokking Algorithms" by Aditya Bhargava: <https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230>
