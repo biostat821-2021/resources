@@ -9,3 +9,7 @@
 
 * SSH: <https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh>
 * <https://guides.github.com/activities/hello-world/>
+
+## Python
+
+* Reading and Writing Files: <https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files>
